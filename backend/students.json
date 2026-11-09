@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "1794203674205",
+    "studentId": "1024951000215",
+    "firstName": "KAT",
+    "middleName": "kit",
+    "lastName": "ket",
+    "email": "jeth@gmail.com",
+    "program": "CICS",
+    "course": "BS Information Technology",
+    "year": "2nd Year",
+    "createdAt": "2026-11-09T05:54:34.205Z"
+  }
+]
